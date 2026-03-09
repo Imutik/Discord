@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Imutik/Discord/blob/
+https://raw.githubusercontent.com/Imutik/Discord/refs/heads/
